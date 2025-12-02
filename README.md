@@ -3,7 +3,7 @@
   <h1>Hi 👋, I'm Yogesh Singh</h1>
 </div>
 
-<h3 align="center">✨ Full Stack Architect & Award-Winning Performance Enthusiast 🏆</h3>
+<h3 align="center">✨ FRONT-END Architect & Award-Winning Performance Enthusiast 🏆</h3>
 
 ---
 
@@ -12,6 +12,18 @@ I'm an **aspiring Full Stack Developer** specializing in building **high-perform
 **The Cherry on Top:** I'm proud to be a winner at **UDBHAV-2025, a National Level Exhibition**. This achievement highlights my ability to not only conceptualize but also successfully execute and present impactful technical projects on a national stage.
 
 <br>
+
+## 🏅 Achievements & Milestones
+
+Since August 2024, I have been actively competing and engaging with the tech community:
+
+| Category | Count | Highlight |
+| :--- | :---: | :--- |
+| 🥇 Wins | 1 | Secured **Winner at UDHBHAV-2025 Exhibition** & **3rd in an Inter College Tech Quiz**. |
+| 🚀 Competitions | 5 | Active participant and achiver in diverse technical competitions. |
+| 💼 Internships | 1 | SKIT JAIPUR | Learn about Web-Development |
+
+---
 
 ## 🚀 Projects & Focus Areas
 
@@ -43,4 +55,4 @@ I'm an **aspiring Full Stack Developer** specializing in building **high-perform
 ## ✉️ Connect with Me
 
 * 💬 Ask me about **DSA** or **Web Architecture**—I enjoy discussing efficient solutions!
-* 📫 **Email:** [yogajm8@gmail.com](mailto:yogajm8@gmail.com)
+* 📫 **Email:** [yogeshsingh777shekhawat@gmail.com](mailto:yogeshsingh777shekhawat@gmail.com)
