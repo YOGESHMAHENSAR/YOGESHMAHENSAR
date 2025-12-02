@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RtcXl0d3k3NHN3bDBtZnM5YzBwd2RraXo5M2J1dHJ5cGl4cW5xeiZlcD12aXN1YWxzJmN0PWc/wP0ipK7xY3Q6rWp2d8/giphy.gif" width="100"/>
+  <img src="YOUR_MERN_THEMED_GIF_URL_HERE" width="100"/>
   <h1>Hi 👋, I'm Yogesh Singh</h1>
 </div>
 
@@ -15,14 +15,13 @@ I'm an **aspiring Full Stack Developer** specializing in building **high-perform
 
 ## 🏅 Achievements & Milestones
 
-Since August 2024, I have been actively competing and engaging with the tech community:
+Since June 2025, I have been actively Learning and  competing in the technical activities:
 
 | Category | Count | Highlight |
 | :--- | :---: | :--- |
-| 🥇 Wins | 2 | Secured **1st place in a Hackathon** & **3rd in an Inter College Tech Quiz**. |
-| 🚀 Competitions | 6 | Active participant in diverse technical competitions. |
-| 📅 Events | 2 | Bitcoin India Tour 2024 & Google Cloud Community Day 2025. |
-| 💼 Internships | 1 | Gained professional experience in Web Designing and Wix Studio. |
+| 🥇 Wins | 2 | Secured **Winner at UDHBHAV-2025 a National Level Exhibition** & **3rd in an Inter College Coding Quiz**. |
+| 🚀 Competitions | 5 | Active participant and achiver in diverse technical competitions. |
+| 💼 Internships | 1 | SKIT JAIPUR | Learn about Web-Development |
 
 ---
 
@@ -70,5 +69,5 @@ Since August 2024, I have been actively competing and engaging with the tech com
 
 ## ✉️ Connect with Me
 
-* 💬 Ask me about **DSA** or **Web Architecture**—I enjoy discussing efficient solutions!
-* 📫 **Email:** [yogajm8@gmail.com](mailto:yogajm8@gmail.com)
+* 💬 Ask me about **DSA** or **Web-Architecture**—I enjoy discussing efficient solutions!
+* 📫 **Email:** [yogeshsingh777shekhawat@gmail.com](mailto:yogeshsingh777shekhawat@gmail.com)
