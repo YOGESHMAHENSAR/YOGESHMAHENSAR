@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RtcXl0d3k3NHN3bDBtZnM5YzBwd2RraXo5M2J1dHJ5cGl4cW5xeiZlcD12aXN1YWxzJmN0PWc/wP0ipK7xY3Q6rWp2d8/giphy.gif" width="100"/>
+  <img src="YOUR_MERN_THEMED_GIF_URL_HERE" width="100"/>
   <h1>Hi 👋, I'm Yogesh Singh</h1>
 </div>
 
@@ -19,9 +19,10 @@ Since August 2024, I have been actively competing and engaging with the tech com
 
 | Category | Count | Highlight |
 | :--- | :---: | :--- |
-| 🥇 Wins | 1 | Secured **Winner at UDHBHAV-2025 Exhibition** & **3rd in an Inter College Tech Quiz**. |
-| 🚀 Competitions | 5 | Active participant and achiver in diverse technical competitions. |
-| 💼 Internships | 1 | SKIT JAIPUR | Learn about Web-Development |
+| 🥇 Wins | 2 | Secured **1st place in a Hackathon** & **3rd in an Inter College Tech Quiz**. |
+| 🚀 Competitions | 6 | Active participant in diverse technical competitions. |
+| 📅 Events | 2 | Bitcoin India Tour 2024 & Google Cloud Community Day 2025. |
+| 💼 Internships | 1 | Gained professional experience in Web Designing and Wix Studio. |
 
 ---
 
@@ -33,26 +34,48 @@ Since August 2024, I have been actively competing and engaging with the tech com
 
 <br>
 
-## 🛠️ Languages and Tools
+## 🛠️ Technical Stack 🚀
 
-| Category | Languages / Frameworks |
-| :--- | :--- |
-| **Fundamentals** | C, C++, DSA (Algorithm Focus) |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), Bootstrap |
-| **Web Development** | MERN Stack (Learning) |
-
-<p align="left">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> 
+<details>
+<summary><strong>Backend & Database</strong></summary>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge">
+  <img src="https://img.shields.io/badge/Jinja-A50505?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja Badge">
 </p>
+</details>
+
+<details>
+<summary><strong>Frontend Development</strong></summary>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+</p>
+</details>
+
+<details>
+<summary><strong>Core CS Fundamentals</strong></summary>
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Badge">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
+  <img src="https://img.shields.io/badge/Data%20Structures-FF7043?style=for-the-badge&logoColor=white" alt="Data Structures Badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+</p>
+</details>
 
 <br>
 
 ## ✉️ Connect with Me
 
 * 💬 Ask me about **DSA** or **Web Architecture**—I enjoy discussing efficient solutions!
-* 📫 **Email:** [yogeshsingh777shekhawat@gmail.com](mailto:yogeshsingh777shekhawat@gmail.com)
+* 📫 **Email:** [yogajm8@gmail.com](mailto:yogajm8@gmail.com)
+
+---
+
+This video provides a practical example of building a modern web application (a GIPHY Clone) using React JS, which is a core part of the MERN stack you are learning: [GIPHY Clone with React JS and Tailwind CSS Tutorial](https://www.youtube.com/watch?v=wtC1_Ea9_wk).
+
+
+http://googleusercontent.com/youtube_content/4
