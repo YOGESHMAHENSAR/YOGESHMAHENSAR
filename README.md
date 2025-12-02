@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[YOUR_MERN_THEMED_GIF_URL_HERE](https://github.com/YOGESHMAHENSAR/YOGESHMAHENSAR/blob/main/assets/mern-is-love.gif)" width="100"/>
+  <img src="[YOUR_MERN_THEMED_GIF_URL_HERE](https://raw.githubusercontent.com/YOGESHMAHENSAR/YOGESHMAHENSAR/main/assets/mern-is-love.gif)" width="100"/>
   <h1>Hi 👋, I'm Yogesh Singh</h1>
 </div>
 
@@ -21,7 +21,7 @@ Since June 2025, I have been actively Learning and  competing in the technical a
 | :--- | :---: | :--- |
 | 🥇 Wins | 2 | Secured **Winner at UDHBHAV-2025 a National Level Exhibition** & **3rd in an Inter College Coding Quiz**. |
 | 🚀 Competitions | 5 | Active participant and achiver in diverse technical competitions. |
-| 💼 Internships | 1 | SKIT JAIPUR | Learn about Web-Development |
+| 💼 Internships | 1 | SKIT JAIPUR & Learn about Web-Development |
 
 ---
 
@@ -59,8 +59,8 @@ Since June 2025, I have been actively Learning and  competing in the technical a
 <summary><strong>Core CS Fundamentals</strong></summary>
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Badge">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
-  <img src="https://img.shields.io/badge/Data%20Structures-FF7043?style=for-the-badge&logoColor=white" alt="Data Structures Badge">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
+  <img src="https://img.shields.io/badge/Data%20Structures-FF7043?style=for-the-badge" alt="Data Structures Badge">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
 </p>
 </details>
