@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_MERN_THEMED_GIF_URL_HERE" width="100"/>
+  <img src="[YOUR_MERN_THEMED_GIF_URL_HERE](https://github.com/YOGESHMAHENSAR/YOGESHMAHENSAR/blob/main/assets/mern-is-love.gif)" width="100"/>
   <h1>Hi 👋, I'm Yogesh Singh</h1>
 </div>
 
