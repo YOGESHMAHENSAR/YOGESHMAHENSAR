@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_MERN_THEMED_GIF_URL_HERE" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RtcXl0d3k3NHN3bDBtZnM5YzBwd2RraXo5M2J1dHJ5cGl4cW5xeiZlcD12aXN1YWxzJmN0PWc/wP0ipK7xY3Q6rWp2d8/giphy.gif" width="100"/>
   <h1>Hi 👋, I'm Yogesh Singh</h1>
 </div>
 
@@ -72,10 +72,3 @@ Since August 2024, I have been actively competing and engaging with the tech com
 
 * 💬 Ask me about **DSA** or **Web Architecture**—I enjoy discussing efficient solutions!
 * 📫 **Email:** [yogajm8@gmail.com](mailto:yogajm8@gmail.com)
-
----
-
-This video provides a practical example of building a modern web application (a GIPHY Clone) using React JS, which is a core part of the MERN stack you are learning: [GIPHY Clone with React JS and Tailwind CSS Tutorial](https://www.youtube.com/watch?v=wtC1_Ea9_wk).
-
-
-http://googleusercontent.com/youtube_content/4
